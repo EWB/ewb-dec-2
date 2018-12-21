@@ -1,0 +1,14 @@
+uuid: a7f6dcf3-5970-4fd0-aa38-50e582d87686
+name: ewb-dec-2
+mail: ewilliamsbergen@stlawu.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
